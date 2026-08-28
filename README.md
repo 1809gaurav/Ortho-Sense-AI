@@ -102,15 +102,8 @@ OrthoSense AI screens for early osteoarthritis risk using wearable IMU sensors, 
 <br/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF7A00&center=true&vCenter=true&width=500&lines=Our+Interface;A+Closer+Look+at+OrthoSense+AI" />
-</h2>
-
-<br/>
-
-<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF7A00&center=true&vCenter=true&width=500&lines=Our+IoT+Device" />
 </h2>
-<p align="center"><i>A wearable sensor kit built around dual IMUs and a pressure-sensing insole,<br/>driven by an ESP32-S3 with local processing and offline storage</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MCU-ESP32--S3-141414?style=flat-square&labelColor=000000&color=FF7A00" />
@@ -156,19 +149,19 @@ OrthoSense AI screens for early osteoarthritis risk using wearable IMU sensors, 
 <tr>
 <td align="center" width="200">
 <img src="https://github.com/sakshamxx.png" width="70" style="border-radius:50%"/><br/>
-<b>Saksham</b><br/>
+<b>Saksham Chauhan</b><br/>
 <sub>ML Engineer</sub><br/>
 <a href="https://github.com/sakshamxx">@sakshamxx</a>
 </td>
 <td align="center" width="200">
 <img src="https://github.com/404Dev-notFound.png" width="70" style="border-radius:50%"/><br/>
-<b>Dev Goel</b><br/><br/>
+<b>Dev Goel</b><br/>
 <sub>IoT Engineer</sub><br/>
 <a href="https://github.com/404Dev-notFound">@404Dev-notFound</a>
 </td>
 <td align="center" width="200">
 <img src="https://github.com/Abhishekjha9.png" width="70" style="border-radius:50%"/><br/>
-<b>Abhishek Jha</b><br/><br/>
+<b>Abhishek Jha</b><br/>
 <sub>Fullstack Developer</sub><br/>
 <a href="https://github.com/Abhishekjha9">@Abhishekjha9</a>
 </td>
@@ -176,19 +169,19 @@ OrthoSense AI screens for early osteoarthritis risk using wearable IMU sensors, 
 <tr>
 <td align="center" width="200">
 <img src="https://github.com/prabheen09876.png" width="70" style="border-radius:50%"/><br/>
-<b>Abhishek Singh</b><br/><br/>
+<b>Abhishek Singh</b><br/>
 <sub>Fullstack Developer</sub><br/>
 <a href="https://github.com/prabheen09876">@prabheen09876</a>
 </td>
 <td align="center" width="200">
 <img src="https://github.com/1809gaurav.png" width="70" style="border-radius:50%"/><br/>
-<b>Gaurav Kaushik</b><br/><br/>
+<b>Gaurav Kaushik</b><br/>
 <sub>QA Engineer</sub><br/>
 <a href="https://github.com/1809gaurav">@1809gaurav</a>
 </td>
 <td align="center" width="200">
 <img src="https://github.com/DivinaKhattar.png" width="70" style="border-radius:50%"/><br/>
-<b>Divina Khattar</b><br/><br/>
+<b>Divina Khattar</b><br/>
 <sub>UI/UX Designer</sub><br/>
 <a href="https://github.com/DivinaKhattar">@DivinaKhattar</a>
 </td>
