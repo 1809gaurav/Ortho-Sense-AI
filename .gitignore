@@ -35,3 +35,6 @@ ml/data/
 # Editors
 .vscode/
 .idea/
+
+# .pth Model
+backend/models/best_ordinal_densenet.pth
