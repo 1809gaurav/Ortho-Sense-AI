@@ -169,7 +169,7 @@ OrthoSense AI screens for early osteoarthritis risk using wearable IMU sensors, 
 <tr>
 <td align="center" width="200">
 <img src="https://github.com/prabheen09876.png" width="70" style="border-radius:50%"/><br/>
-<b>Abhishek Singh</b><br/>
+<b>Abhishek</b><br/>
 <sub>Fullstack Developer</sub><br/>
 <a href="https://github.com/prabheen09876">@prabheen09876</a>
 </td>
